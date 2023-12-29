@@ -1,0 +1,28 @@
+info>print string<
+STRING>string for print<
+go>Console/Print<
+saa><
+info>print int
+INT>1<
+go>Console/Print<
+saa><
+info>print float
+FLOAT>1.0<
+go>Console/Print<
+saa><
+info>print bool
+TRUE><
+go>Console/Print<
+saa><
+info>print char
+CHAR>C<
+go>Console/Print<
+saa><
+info>print class<
+go>ClassName<
+go>Console/Print<
+saa><
+info>print object<
+go>ClassName/ObjectKey<
+go>Console/Print<
+saa><
