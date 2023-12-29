@@ -1,0 +1,14 @@
+//print string
+Console.Print("string for print");
+//print int
+Console.Print(1);
+//print float
+Console.Print(1.0);
+//print bool
+Console.Print(true);
+//print char
+Console.Print('c');
+//print class
+Console.Print(ClassName);
+//print object
+Console.Print(ClassName.ObjectKey);
