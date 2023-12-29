@@ -50,4 +50,5 @@ OpEditor is a unique programming editor designed for the Opio programming langua
 - **EXE Support**: Currently, the editor only supports the creation of `.exe` files for Windows systems.
 
 # Supports 🔥
-![linkyt](https://github.com/RevoidTeam/Opio-Framework/assets/155166369/9a058b1d-fe40-48a1-8906-b320e0e2ba92)
+![linkyt](https://github.com/RevoidTeam/Opio-Framework/assets/155166369/5d90d091-470a-450f-86bb-81f29c951a7c)
+
