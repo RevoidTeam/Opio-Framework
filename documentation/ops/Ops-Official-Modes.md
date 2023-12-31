@@ -151,7 +151,7 @@ if (code == "false")
 ACTION>{your actions}
 ```
 ## compiler
-```
+```cs
 if (code.StartsWith('{') && code.EndsWith('}'))
 {
     code = code.Remove(0, 1);
