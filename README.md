@@ -5,12 +5,12 @@ It is an integrated framework for making some applications, testing and making s
 ## opio.net
 for install opio.net you can install from nuget.org :
 https://www.nuget.org/packages/opio.net or run this command in PM :
-```
+```PowerShell
 NuGet\Install-Package opio.net -Version 1.0.0
 ```
 ## opio framewok
 for install opio framework you can install from releases :
-```
+```PowerShell
 install soon
 ```
 
