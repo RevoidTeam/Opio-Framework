@@ -5,10 +5,10 @@ It is an integrated framework for making some applications, testing and making s
 ## opio.net
 for install opio.net you can install from nuget.org :
 https://www.nuget.org/packages/opio.net or run this command in PM :
-'NuGet\Install-Package opio.net -Version 1.0.0'
+`NuGet\Install-Package opio.net -Version 1.0.0`
 ## opio framewok
 for install opio framework you can install from releases :
-'install soon'
+`install soon`
 
 # Opio 📦
 Opio is a new programming language designed for the modern era 👨‍💻. It has been developed to be multilingual, allowing programmers to write code in any language they prefer, including Arabic. In addition, Opio supports visual programming, making it ideal for users who prefer a visual interaction with their code.
