@@ -65,3 +65,18 @@ OpEditor is a unique programming editor designed for the Opio programming langua
 # Supports 🔥
 ![linkyt](https://github.com/RevoidTeam/Opio-Framework/assets/155166369/5d90d091-470a-450f-86bb-81f29c951a7c)
 
+# opio.net 🌏
+Install : https://github.com/RevoidTeam/Opio-Framework/tree/main?tab=readme-ov-file#opionet
+> A sample project for running user commands
+```cs
+using opio;
+using opio.packages;
+
+OpioConsole.Using();
+OpioFiles.Using();
+OpioSystem.Using();
+OpioTranslator.ApplyARE();
+OpioSimply.ApplyOfficialModes();
+OpioEngine.BuildSimplys(OpioSimply.opsCompiler(Console.ReadLine()));
+```
+> opio.net docs soon
