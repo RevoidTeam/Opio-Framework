@@ -1,6 +1,15 @@
 # Opio Framework 🖼️
 It is an integrated framework for making some applications, testing and making simple applications. This framework was created for the purpose of fun for YouTube and in order to use it with a browser specific to this language only, and does not require known languages ​​such as html, css, js, and these sites only work on a browser. OP
 
+# Install ☑️
+## opio.net
+for install opio.net you can install from nuget.org :
+https://www.nuget.org/packages/opio.net or run this command in PM :
+'NuGet\Install-Package opio.net -Version 1.0.0'
+## opio framewok
+for install opio framework you can install from releases :
+'install soon'
+
 # Opio 📦
 Opio is a new programming language designed for the modern era 👨‍💻. It has been developed to be multilingual, allowing programmers to write code in any language they prefer, including Arabic. In addition, Opio supports visual programming, making it ideal for users who prefer a visual interaction with their code.
 
