@@ -75,7 +75,6 @@ using opio.packages;
 OpioConsole.Using();
 OpioFiles.Using();
 OpioSystem.Using();
-OpioTranslator.ApplyARE();
 OpioSimply.ApplyOfficialModes();
 OpioEngine.BuildSimplys(OpioSimply.opsCompiler(Console.ReadLine()));
 ```
