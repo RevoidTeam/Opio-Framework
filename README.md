@@ -79,7 +79,23 @@ OpioConsole.Using();
 OpioFiles.Using();
 OpioSystem.Using();
 OpioSimply.ApplyOfficialModes();
+```
+> and (app)
+```cs
 OpioEngine.BuildSimplys(OpioSimply.opsCompiler(Console.ReadLine()));
+```
+> or (debig)
+```cs
+while (true)
+{
+    OpioEngine.BuildSimplys(OpioSimply.opsCompiler(Console.ReadLine()));
+    int i = 0;
+    while (OpioEngine.oo.Count != i)
+    {
+        Console.WriteLine(OpioEngine.oo[0]);
+        i++;
+    }
+}
 ```
 > make custom apply oficial modes
 ```cs
