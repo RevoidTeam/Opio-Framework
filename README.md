@@ -1,5 +1,8 @@
 # Opio Framework 🖼️
 It is an integrated framework for making some applications, testing and making simple applications. This framework was created for the purpose of fun for YouTube and in order to use it with a browser specific to this language only, and does not require known languages ​​such as html, css, js, and these sites only work on a browser. OP
+> [!CAUTION]]
+> all Opio Framework in developer mode.
+
 
 # Install ☑️
 ## opio.net
@@ -10,9 +13,8 @@ NuGet\Install-Package opio.net -Version 1.0.0
 ```
 ## opio framewok
 for install opio framework you can install from releases :
-```PowerShell
-install soon
-```
+> [!WARNING]
+> Opio Framework installer coming soon.
 
 # Opio 📦
 Opio is a new programming language designed for the modern era 👨‍💻. It has been developed to be multilingual, allowing programmers to write code in any language they prefer, including Arabic. In addition, Opio supports visual programming, making it ideal for users who prefer a visual interaction with their code.
@@ -35,6 +37,8 @@ Opio is a new programming language designed for the modern era 👨‍💻. It h
 ## Basic Applications 🗃️
 - Console Applications 💬
 - Oeb.OPS 🕸️
+> [!TIP]
+> Opio Graphics app in developer mode. 
 
 ## How work
 ![opioAD2](https://github.com/RevoidTeam/Opio-Framework/assets/155166369/ce8e2ec3-565c-4edd-b89a-fde60b5b9669)
@@ -50,7 +54,8 @@ Opio is a new programming language designed for the modern era 👨‍💻. It h
 
 ## Translation from op to ops 💽
 The tool works by separating each command individually. It uses the OpioMode system to send the untranslated code, then performs the custom translation of every single thing after identifying it and builds an integrated code.
-
+> [!IMPORTANT]
+> you can Translation from op to ops in opio.net with `OpioSimply.opsCompiler({your op code})`.
 
 # OpEditor 🎙️
 OpEditor is a unique programming editor designed for the Opio programming language. It supports both textual and visual programming, and includes a translator and an operator for the Opio language.
@@ -97,5 +102,5 @@ while (true)
     }
 }
 ```
-
-> opio.net docs soon
+> [!TIP]
+> for learn opio.net or you need help go to [opio.net docs](https://github.com/RevoidTeam/Opio-Framework/blob/main/documentation/opio.net)https://github.com/RevoidTeam/Opio-Framework/blob/main/documentation/opio.net
