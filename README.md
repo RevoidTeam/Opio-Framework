@@ -66,7 +66,7 @@ OpEditor is a unique programming editor designed for the Opio programming langua
 ![linkyt](https://github.com/RevoidTeam/Opio-Framework/assets/155166369/5d90d091-470a-450f-86bb-81f29c951a7c)
 
 # opio.net 🌏
-Install : https://github.com/RevoidTeam/Opio-Framework/tree/main?tab=readme-ov-file#opionet
+[Install opio.net](https://github.com/RevoidTeam/Opio-Framework/tree/main?tab=readme-ov-file#opionet) 
 > A sample project for running user commands
 > name spaces
 ```cs
