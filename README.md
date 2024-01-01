@@ -3,7 +3,7 @@ It is an integrated framework for making some applications, testing and making s
 
 # Install ☑️
 ## opio.net
-for install opio.net you can install from nuget.org :
+for install [opio.net](https://github.com/RevoidTeam/Opio-Framework/tree/main?tab=readme-ov-file#opionet-) you can install from nuget.org :
 https://www.nuget.org/packages/opio.net or run this command in PM :
 ```PowerShell
 NuGet\Install-Package opio.net -Version 1.0.0
@@ -24,7 +24,7 @@ Opio is a new programming language designed for the modern era 👨‍💻. It h
 - Multilingual support 📚
 - Translation of op files to ops 🗄️
 - Execution of .ops files 📂
-- Integrated editor 🍎
+- [Integrated editor 🍎](https://github.com/RevoidTeam/Opio-Framework/tree/main?tab=readme-ov-file#opeditor-%EF%B8%8F)
 - Visual programming 💳
 - Speed of translation and execution 🚅
 - Ambitious goals 🥅
@@ -60,7 +60,7 @@ OpEditor is a unique programming editor designed for the Opio programming langua
 - **Textual and Visual Programming**: Write code in text format or manipulate program elements graphically.
 - **Op to Ops Translation**: Translate code written in Op (standard mode) into Ops (simpler mode).
 - **Extraction for All Systems**: Extract a complete project for an application on all systems.
-- **EXE Support**: Currently, the editor only supports the creation of `.exe` files for Windows systems.
+- **EXE Support**: Currently, the [editor](https://github.com/RevoidTeam/Opio-Framework/tree/main?tab=readme-ov-file#opeditor-%EF%B8%8F) only supports the creation of `.exe` files for Windows systems.
 
 # Supports 🔥
 ![linkyt](https://github.com/RevoidTeam/Opio-Framework/assets/155166369/5d90d091-470a-450f-86bb-81f29c951a7c)
