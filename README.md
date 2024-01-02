@@ -10,7 +10,7 @@ It is an integrated framework for making some applications, testing and making s
 
 # Install ☑️
 ## opio.net
-for install [opio.net](https://github.com/RevoidTeam/Opio-Framework/tree/main?tab=readme-ov-file#opionet-) you can install from [nuget.org](https://www.nuget.org/packages/opio.net or run this command in PM ) :
+for install [opio.net](https://github.com/RevoidTeam/Opio-Framework/tree/main?tab=readme-ov-file#opionet-) you can install from [nuget.org](https://www.nuget.org/packages/opio.net) or run this command in PM :
 ```PowerShell
 NuGet\Install-Package opio.net -Version 1.0.0
 ```
