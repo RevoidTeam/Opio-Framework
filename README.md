@@ -87,9 +87,9 @@ OpioSimply.ApplyOfficialModes();
 ```
 > and (app)
 ```cs
-OpioEngine.BuildSimplys(OpioSimply.opsCompiler(Console.ReadLine()));
+OpioEngine.BuildSimplys(OpioSimply.opsCompiler("Console.Print("hi")"));
 ```
-> or (debig)
+> or (debug)
 ```cs
 while (true)
 {
