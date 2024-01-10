@@ -207,3 +207,32 @@ if (code[0] == '/' && code[1] == '/')
 ```cs
 Return = "go>" + code.Replace('.', '/');
 ```
+# RunAction
+## compiler
+```cs
+if (code.Contains('(') && code.Last() == ')')
+{
+    List<string> actvar = code.Split('(').ToList();
+    string path = actvar[0].Replace('.', '/');
+    string var = actvar[1];
+    actvar.RemoveAt(0);
+    actvar.RemoveAt(0);
+    foreach (string svar in actvar)
+    {
+        var += "(" + svar;
+    }
+    var = var.Remove(var.Length - 1);
+
+    path = "<go>" + path + "<raa>";
+
+    string nv = "";
+    string pattern = ",(?![^(]*\\))";
+    List<string> substrings = Regex.Split(var, pattern).ToList();
+    substrings.Reverse();
+    foreach (string m in substrings)
+    {
+        nv += opsCompiler(m)+"<";
+    }
+    Return = nv + path;
+}
+```
